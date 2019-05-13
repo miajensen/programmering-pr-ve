@@ -1,7 +1,10 @@
 # ProgrammeringsÅrsprøve
 
-Resume: jeg vil gerne gå op med API Apps som vi har fået lavet. ok.
+## Resume
+jeg vil gerne gå op med API Apps som vi har fået lavet.
 
-Kodesprog: Javascript (p5.js), HTML.
+## Kode Sprog
+Javascript (p5.js), HTML.
 
-Teknologier: 
+## Teknologier
+p5.js er et bibliotek inde på javascript. jQuery til at lave et "One Page" hjemmeside.
