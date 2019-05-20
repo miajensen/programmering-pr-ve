@@ -1,4 +1,6 @@
 # ProgrammeringsÅrsprøve
+Mia Jensen
+https://miajensen.github.io/programmering-pr-ve/
 
 ## Resume
 Jeg har tænkt mig at arbejde videre.
