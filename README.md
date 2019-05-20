@@ -9,7 +9,8 @@ Det er et program som bruger p5 speech til at vise bestemte billeder når et ell
 
 ## Kode Sprog
 Javascript (p5.js).
-Jeg har tænkt mig at bruge HTML til at lave layout og Javascript
+Jeg har brugt javascript til at skrive koden, da jeg bruger functions og if statements.
 
 ## Teknologier
 p5.js er et bibliotek inde på javascript.
+Af biblioteker har jeg brugtr p5 javascript som er et program der skal hjælpe folk med at starte på programmeringen. Det bruges også af folk som vil lave en kunst.
